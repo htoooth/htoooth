@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![htoooth's GitHub stats](https://github-readme-stats.vercel.app/api?username=htoooth&show_icons=true&theme=buefy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htoooth)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/htoooth"><img src="https://github-readme-stats.vercel.app/api?username=htoooth&show_icons=true" /></a>
+  <a href="https://github.com/htoooth"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htoooth&layout=compact" height="195" /></a>
+</div>
