@@ -3,7 +3,7 @@
 I'm focused on **Frontend**.
 
 - To read more about me: [Blog](https://www.cnblogs.com/htoooth)
-- To know what I'm doing: [Work](https://htoooth.github.io/myresume/)
+- To know what I'm doing: [Work_en](https://htoooth-github-io.translate.goog/myresume/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp), [Work_cn](https://htoooth.github.io/myresume/), 
 - Also, follow me on [Twitter](https://twitter.com/huangyunlong)
 
 ---
